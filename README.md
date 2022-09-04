@@ -6,4 +6,4 @@ Programa usado: Android Studio
 obs:Para instalar os aplicativos é necessario usar o celular com 
 depuração USB ativa ou utilizar o emulador do proprio Android Studio
 
-Lingguagem: Java
+Linguagem: Java
